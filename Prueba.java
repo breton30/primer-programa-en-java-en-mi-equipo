@@ -4,5 +4,6 @@ public class Prueba {
 		
 		System.out.println("Breton Sanchez");
 		System.out.println("21,2002");
+		System.out.println("hamburguesas");
 	}
 }
